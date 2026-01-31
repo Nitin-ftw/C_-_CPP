@@ -9,5 +9,4 @@ void main()
     printf("what is the constant in equation : ");
     scanf("%f",&c);
     printf("the equation is : %fx + %fy = %f",a,b,c);
-
 }
