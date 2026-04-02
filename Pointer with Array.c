@@ -14,7 +14,7 @@ int main()
 	{
 		sum = sum + *p;
 		p = p + 1; // scale factor 
-		printf("address is %u",p);c // if you wanna see the scale factor and how its working
+		printf("address is %u",p);c 
 	}
 	printf("sum is %d",sum);
 	return 0;
