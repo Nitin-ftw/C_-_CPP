@@ -8,34 +8,34 @@ int main(){
 	{
 		case 'v':
 		case 'V': 
-			printf("Violet💜️\n");
+			printf("Violet\n");
 			break;
 		case 'i' : 
 		case 'I' :
-			printf("Indigo🫐️\n");
+			printf("Indigo\n");
 			break;
 		case 'b' : 
 		case 'B' : 
-			printf("Blue💙️\n");
+			printf("Blue\n");
 			break;
 		case 'g' : 
 		case 'G' : 
-			printf("Green💚️\n");
+			printf("Green\n");
 			break;
 		case 'y' : 
 		case 'Y' : 
-			printf("Yellow💛️\n");
+			printf("Yellow\n");
 			break;
 		case 'o' : 
 		case 'O' : 
-			printf("Orange🧡️\n");
+			printf("Orange\n");
 			break;
 		case 'r' : 
 		case 'R' : 
-			printf("Red❤️\n");
+			printf("Red\n");
 			break;
 		default : 
-			printf("This is NOT in rainbow 🥀️\n");
+			printf("This is NOT in rainbow \n");
 	}
 	return 0;
 }
